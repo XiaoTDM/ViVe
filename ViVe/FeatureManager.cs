@@ -32,7 +32,7 @@ namespace Albacore.ViVe
             RTL_FEATURE_CONFIGURATION_PRIORITY.ImageDefault,
             RTL_FEATURE_CONFIGURATION_PRIORITY.EKB,
             RTL_FEATURE_CONFIGURATION_PRIORITY.ImageDefaultEditionOverride,
-            RTL_FEATURE_CONFIGURATION_PRIORITY.Security,
+            #RTL_FEATURE_CONFIGURATION_PRIORITY.Security,
             RTL_FEATURE_CONFIGURATION_PRIORITY.ImageOverride
         };
 
